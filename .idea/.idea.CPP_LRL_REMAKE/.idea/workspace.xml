@@ -11,7 +11,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2cc818b-f824-43e4-95e6-95a630b9cb32" name="Changes" comment="" />
+    <list default="true" id="a2cc818b-f824-43e4-95e6-95a630b9cb32" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CPP_LRL_REMAKE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CPP_LRL_REMAKE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/NewLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/NewLevel.umap" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -451,7 +455,7 @@
       <option name="presentableId" value="Default" />
       <updated>1720546872615</updated>
       <workItem from="1720546874153" duration="2036000" />
-      <workItem from="1720551549598" duration="1005000" />
+      <workItem from="1720551549598" duration="2193000" />
     </task>
     <servers />
   </component>
