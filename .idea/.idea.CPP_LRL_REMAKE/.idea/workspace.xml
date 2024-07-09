@@ -11,9 +11,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2cc818b-f824-43e4-95e6-95a630b9cb32" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CPP_LRL_REMAKE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CPP_LRL_REMAKE/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a2cc818b-f824-43e4-95e6-95a630b9cb32" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -453,6 +451,7 @@
       <option name="presentableId" value="Default" />
       <updated>1720546872615</updated>
       <workItem from="1720546874153" duration="2036000" />
+      <workItem from="1720551549598" duration="402000" />
     </task>
     <servers />
   </component>
