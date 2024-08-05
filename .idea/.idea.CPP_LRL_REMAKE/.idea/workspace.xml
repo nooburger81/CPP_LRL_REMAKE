@@ -15,7 +15,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CPP_LRL_REMAKE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CPP_LRL_REMAKE/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/Items/BP_Item.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Items/BP_Item.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/NewLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/NewLevel.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/CPP_LRL_REMAKE/CPP_LRL_REMAKE.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CPP_LRL_REMAKE/CPP_LRL_REMAKE.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/CPP_LRL_REMAKE/Private/Items/Item.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CPP_LRL_REMAKE/Private/Items/Item.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/CPP_LRL_REMAKE/Public/Items/Item.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CPP_LRL_REMAKE/Public/Items/Item.h" afterDir="false" />
     </list>
@@ -480,7 +479,7 @@
       <workItem from="1720618532920" duration="913000" />
       <workItem from="1722789375133" duration="11034000" />
       <workItem from="1722814448403" duration="794000" />
-      <workItem from="1722871090109" duration="10659000" />
+      <workItem from="1722871090109" duration="13938000" />
     </task>
     <servers />
   </component>

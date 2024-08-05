@@ -24,7 +24,7 @@ protected:
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Sine Parameters")
     	float TimeConstant = 5.f;
-
+	
 	UFUNCTION(BlueprintPure)
 	float TransformedSin();
 
@@ -37,8 +37,9 @@ protected:
 private:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
 	float RunningTime;
-	
-	
+
+	UPROPERTY(VisibleAnywhere)
+	UStaticMeshComponent* ItemMesh;
 };
 
 template <typename T>
