@@ -12,11 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2cc818b-f824-43e4-95e6-95a630b9cb32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Source/CPP_LRL_REMAKE/Private/Pawns/Bird.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/CPP_LRL_REMAKE/Public/Pawns/Bird.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/GameMode/GMB_BirdGameMode.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CPP_LRL_REMAKE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CPP_LRL_REMAKE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Pawns/BP_Bird.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Pawns/BP_Bird.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/NewLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/NewLevel.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Utilities/EUW_Python.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Utilities/EUW_Python.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/CPP_LRL_REMAKE/Private/Pawns/Bird.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CPP_LRL_REMAKE/Private/Pawns/Bird.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/CPP_LRL_REMAKE/Public/Items/Item.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CPP_LRL_REMAKE/Public/Items/Item.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/CPP_LRL_REMAKE/Public/Pawns/Bird.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CPP_LRL_REMAKE/Public/Pawns/Bird.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +31,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/CPP_LRL_REMAKE/UHT/Item.generated.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://D:/UnrealProjects/UE_5.4/Engine/Plugins/Marketplace/Substance/Source/SubstanceCore/SubstanceCore.Build.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://D:/UnrealProjects/UE_5.4/Engine/Plugins/Marketplace/Substance/Source/SubstanceEditor/SubstanceEditor.Build.cs" root0="SKIP_HIGHLIGHTING" />
@@ -480,7 +486,7 @@
       <workItem from="1722789375133" duration="11034000" />
       <workItem from="1722814448403" duration="794000" />
       <workItem from="1722871090109" duration="13938000" />
-      <workItem from="1722956686737" duration="1177000" />
+      <workItem from="1722956686737" duration="10215000" />
     </task>
     <servers />
   </component>

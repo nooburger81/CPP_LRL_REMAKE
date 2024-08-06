@@ -6,6 +6,12 @@
 #include "GameFramework/Pawn.h"
 #include "Bird.generated.h"
 
+// Forward declares
+class UCapsuleComponent;
+class USkeletalMeshComponent;
+class USpringArmComponent;
+class UCameraComponent;
+
 UCLASS()
 class CPP_LRL_REMAKE_API ABird : public APawn
 {
@@ -18,8 +24,23 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
-	
 protected:
 	virtual void BeginPlay() override;
+	void MoveForward(float Value);
+	void Turn(float Value);
+	void LookUp(float Value);
+	
+private:
+	UPROPERTY(VisibleAnywhere)
+	UCapsuleComponent* CapsuleComponent;
+
+	UPROPERTY(VisibleAnywhere)
+	USkeletalMeshComponent* BirdMesh;
+
+	UPROPERTY(VisibleAnywhere)
+	USpringArmComponent* SpringArmComponent;
+
+	UPROPERTY(VisibleAnywhere)
+	UCameraComponent* ViewCamera;
 	
 };
